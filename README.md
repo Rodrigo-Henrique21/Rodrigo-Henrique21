@@ -14,6 +14,12 @@
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Henrique21&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Henrique21&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
  </div>
+ 
+ <div align="center">
+ 
+![snake gif](https://github.com/Rodrigo-Henrique21/Rodrigo-Henrique21/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
   <div align="center">
   <a href="https://www.linkedin.com/in/rodrigo-h-446ab413a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -28,4 +34,6 @@
   <img align="center" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 </div><br>
 <div align="center">
+
+
   
