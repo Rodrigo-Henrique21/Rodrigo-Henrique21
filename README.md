@@ -5,16 +5,14 @@
 <p align="center">⚡ Analista de dados com experi&ecirc;ncia na fun&ccedil;&atilde;o de tr&ecirc;s anos</p>
 <p align="center">😄 Pronuncia: Ele/Dele </p>
 <p align="center">Sua contribui&ccedil;&atilde;o ser&aacute; muito bem vinda, vlw mesmo! 😉️</p>
+</div> 
+
+<div align="center">
+  <a href="https://github.com/Rodrigo-Henrique21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Henrique21&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Henrique21&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-
-
- 
- <div>
- <div align="center">
-   <a href="https://github.com/Rodrigo-Henrique21">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Henrique21&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&hide_border=false&show_owner=true"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Henrique21&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
- </div>
+  
  <div align="center">
  
 ![snake gif](https://github.com/Rodrigo-Henrique21/Rodrigo-Henrique21/blob/output/github-contribution-grid-snake.svg)
