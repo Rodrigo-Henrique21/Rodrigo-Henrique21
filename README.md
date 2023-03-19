@@ -1,7 +1,7 @@
 <h1 style="text-align: center;" align="center">&nbsp; &nbsp; &nbsp; Ol&aacute;, Seja Bem-Vindo ☺️</h1>
 <p align="center">❤️ Apaixonado por Dados</p>
 <p align="center">🌳 Eng. Da Computa&ccedil;&atilde;o</p>
-<p align="center">🌱 Analise e desenvolvimento de sistema 3/5</p>
+<p align="center">🌱 Analise e desenvolvimento de sistema</p>
 <p align="center">⚡ Analista de dados com experi&ecirc;ncia na fun&ccedil;&atilde;o de tr&ecirc;s anos</p>
 <p align="center">😄 Pronuncia: Ele/Dele </p>
 <p align="center">Sua contribui&ccedil;&atilde;o ser&aacute; muito bem vinda, vlw mesmo! 😉️</p>
