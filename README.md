@@ -5,7 +5,7 @@
 <p align="center">⚡ Experi&ecirc;ncia como Analista de dados</p>
 <p align="center">⚡ Experi&ecirc;ncia como Engenheiro de dados</p>
 <p align="center">😄 Pronuncia: Ele/Dele </p>
-<p align="center">Sua contribui&ccedil;&atilde;o ser&aacute; muito bem vinda, vlw mesmo! 😉️</p>
+<p align="center">Sua contribui&ccedil;&atilde;o ser&aacute; muito bem vinda, vlw mesmo! 😉️</p> 
 </div> 
 
 <div align="center">
