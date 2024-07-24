@@ -17,7 +17,7 @@
   
  <div align="center">
  
-![snake gif](https://github.com/Rodrigo-Henrique21/Rodrigo-Henrique21/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Rodrigo-Henrique21/Rodrigo-Henrique21/blob/output/github-contribution-grid-snake.gif)
  
 </div>
 
