@@ -18,7 +18,8 @@
 <p align="center">
   ❤️ Apaixonado por Dados.<br>
   🌳 Graduação em Engenharia da Computação.<br>
-  🌳 Estudei Análise e Desenvolvimento de Sistemas.<br>
+  🌳 Graduação em Análise e Desenvolvimento de Sistemas.<br>
+  🌳 Especialização em Ciência de dados e arquitetura de software<br>
   ⚡ Experiência como Analista de Dados.<br>
   ⚡ Experiência como Engenheiro de Dados.<br>
 </p>
