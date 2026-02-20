@@ -40,10 +40,8 @@
 
 <h3 align="center">Métricas 📊</h3>
 <div align="center">
-  <a href="https://github.com/Rodrigo-Henrique21" target="_blank" rel="noopener noreferrer">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Henrique21&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false" alt="Estatísticas do GitHub"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Henrique21&theme=dracula&hide_border=false&layout=compact" alt="Linguagens mais usadas"/>
-  </a>
+  <img height="150" src="./profile/stats.svg" alt="Estatísticas do GitHub"/>
+  <img height="150" src="./profile/top-langs.svg" alt="Linguagens mais usadas"/>
 </div>
 
 <div align="center">
